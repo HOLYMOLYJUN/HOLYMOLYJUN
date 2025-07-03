@@ -1,14 +1,19 @@
 # 👋 안녕하세요!  
+<br><br>
+
 프론트엔드 주니어 개발자 **이상준**입니다.
 
 2023년 10월부터 프론트엔드 개발자로 활동하고 있어요.  
 안정적이고 효율적이며, 한 걸음 더 사용자를 고려하는 **UX 중심의 서비스**를 만들기 위해 노력합니다.
 
----
 <br>
+
+---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOLYMOLYJUN&layout=compact&langs_count=6&theme=default)
-<br>
 ---
+
+<br>
+
 ## 🛠️ Tech Stack
 
 ### 🔷 Mainly Used
