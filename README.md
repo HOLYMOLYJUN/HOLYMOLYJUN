@@ -1,3 +1,6 @@
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,100:86A8E7&height=160&section=header&text=Hi%20👋%20I'm%20Sangjun!&fontAlign=50&fontAlignY=40&fontSize=35&desc=Frontend%20Developer%20%7C%20React%20%7C%20Tailwind&descAlign=50&descAlignY=70&descSize=20" />
+
 # 👋 안녕하세요!  
 <br>
 
