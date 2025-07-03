@@ -47,7 +47,6 @@
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOLYMOLYJUN&layout=compact&langs_count=6&theme=default)
 
 ## ✍️ See More
 
@@ -60,3 +59,7 @@
 📧 **sanjuuni32@gmail.com**
 
 ---
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOLYMOLYJUN&layout=compact&langs_count=6&theme=default)
+
