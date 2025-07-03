@@ -1,5 +1,5 @@
 # 👋 안녕하세요!  
-<br><br>
+<br>
 
 프론트엔드 주니어 개발자 **이상준**입니다.
 
@@ -53,14 +53,14 @@
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white" />
 </p>
 
----
+
 
 ## ✍️ See More
 
 - 📒 Velog: [velog.io/@vlck1111](https://velog.io/@vlck1111)
 - 🗂️ Notion: 
 
----
+
 
 ## 📫 Contact
 
