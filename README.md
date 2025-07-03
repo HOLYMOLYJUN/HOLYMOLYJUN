@@ -5,36 +5,57 @@
 안정적이고 효율적이며, 한 걸음 더 사용자를 고려하는 **UX 중심의 서비스**를 만들기 위해 노력합니다.
 
 ---
-
 ## 🛠️ Tech Stack
 
-### • Mainly Used
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
+### 🔷 Mainly Used
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=ffffff" />
+</p>
 
-### • Version Control
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>  
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+### 🧩 Additional Skills
+<p>
+  <img src="https://img.shields.io/badge/Zustand-000000?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white" />
+</p>
 
-### • CI/CD  
-*작성 중...*
+### 📊 Data / Visualization
+<p>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3dotjs&logoColor=white" />
+</p>
 
-### • Cooperation Tools
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/>
+### 🌐 Network / API
+<p>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fetch%20API-000000?style=flat&logo=javascript&logoColor=white" />
+</p>
+
+### 🎨 Design Tools
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white" />
+</p>
 
 ---
 
 ## ✍️ See More
 
-- 📒 Velog: [velog.io/@leesangjun](https://velog.io/@leesangjun)
-- 🗂️ Notion: [notion.so/leesangjun](https://notion.so/leesangjun) *(예시 링크입니다)*
+- 📒 Velog: [velog.io/@vlck1111](https://velog.io/@vlck1111)
+- 🗂️ Notion: 
 
 ---
 
 ## 📫 Contact
 
 궁금한 점이 있으시면 아래 메일로 연락주세요.  
-📧 **lsj50316@gmail.com**
+📧 **sanjuuni32@gmail.com**
 
 ---
