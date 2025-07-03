@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:CC0000&height=160&section=header&text=LEE%20SANG%20JUN&fontAlign=50&fontAlignY=40&fontSize=40&desc=Frontend%20Developer%20%7C%20React%20%7C%20TypeScript&descAlign=50&descAlignY=70&descSize=20" />
 
 
-# 👋 안녕하세요!  
+## 👋 안녕하세요!  
 <br>
 
 프론트엔드 주니어 개발자 **이상준**입니다.
