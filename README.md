@@ -13,7 +13,7 @@
 
 ## 🛠️ Tech Stack
 
-### 🔷 Mainly Used
+#### 🔷 Mainly Used
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff" />
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=ffffff" />
 </p>
 
-### 🧩 Additional Skills
+#### 🧩 Additional Skills
 <p>
   <img src="https://img.shields.io/badge/Zustand-000000?style=flat&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
@@ -31,13 +31,13 @@
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white" />
 </p>
 
-### 📊 Data / Visualization
+#### 📊 Data / Visualization
 <p>
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3dotjs&logoColor=white" />
 </p>
 
-### 🌐 Network / API
+#### 🌐 Network / API
 <p>
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white" />
   <img src="https://img.shields.io/badge/Fetch%20API-000000?style=flat&logo=javascript&logoColor=white" />
