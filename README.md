@@ -5,10 +5,12 @@
 안정적이고 효율적이며, 한 걸음 더 사용자를 고려하는 **UX 중심의 서비스**를 만들기 위해 노력합니다.
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOLYMOLYJUN&layout=compact&langs_count=6&theme=default)
+---
 ## 🛠️ Tech Stack
 
 ### 🔷 Mainly Used
-<p stlye="border:1px solid #d9d9d9;">
+<p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000" />
