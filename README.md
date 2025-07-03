@@ -50,17 +50,20 @@
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white" />
 </p>
 
+<br>
 
 ## ✍️ See More
 
 - 📒 Velog: [velog.io/@vlck1111](https://velog.io/@vlck1111)
-- 🗂️ Notion: 
+- 🗂️ Notion:
+- 
+<br>
 
 ## 📫 Contact
 
 궁금한 점이 있으시면 아래 메일로 연락주세요.  
 📧 **sanjuuni32@gmail.com**
-
+<br>
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HOLYMOLYJUN&layout=compact&langs_count=6&theme=default)
