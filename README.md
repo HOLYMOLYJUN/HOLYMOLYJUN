@@ -1,23 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE259,100:FFA751&height=160&section=header&text=LEE%20SANG%20JUN&fontColor=333333&fontAlign=50&fontAlignY=40&fontSize=40&desc=Frontend%20Developer%20%7C%20React%20%7C%20TypeScript&descAlign=50&descAlignY=70&descSize=20&descColor=333333" />
 
 
-
-<!-- 1. slice -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:ff6a00,100:ee0979&height=160&section=header&text=LEE%20SANG%20JUN&fontColor=333333&fontAlign=50&fontAlignY=40&fontSize=40&desc=Frontend%20Developer%20%7C%20React%20%7C%20TypeScript&descAlign=50&descAlignY=70&descSize=20&descColor=333333" alt="LEE SANG JUN - slice" />
-
-<!-- 2. rounded -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:36D1DC,100:5B86E5&height=160&section=header&text=LEE%20SANG%20JUN&fontColor=ffffff&fontAlign=50&fontAlignY=40&fontSize=40&desc=Frontend%20Developer%20%7C%20React%20%7C%20TypeScript&descAlign=50&descAlignY=70&descSize=20&descColor=ffffff" alt="LEE SANG JUN - rounded" />
-
-<!-- 3. soft -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:43cea2,100:185a9d&height=160&section=header&text=LEE%20SANG%20JUN&fontColor=ffffff&fontAlign=50&fontAlignY=40&fontSize=40&desc=Frontend%20Developer%20%7C%20React%20%7C%20TypeScript&descAlign=50&descAlignY=70&descSize=20&descColor=ffffff" alt="LEE SANG JUN - soft" />
-
-<!-- 4. wave -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:ffe259,100:ffa751&height=160&section=header&text=LEE%20SANG%20JUN&fontColor=333333&fontAlign=50&fontAlignY=40&fontSize=40&desc=Frontend%20Developer%20%7C%20React%20%7C%20TypeScript&descAlign=50&descAlignY=70&descSize=20&descColor=333333" alt="LEE SANG JUN - wave" />
-
-<!-- 5. default -->
-<img src="https://capsule-render.vercel.app/api?type=default&color=0:f7971e,100:ffd200&height=160&section=header&text=LEE%20SANG%20JUN&fontColor=333333&fontAlign=50&fontAlignY=40&fontSize=40&desc=Frontend%20Developer%20%7C%20React%20%7C%20TypeScript&descAlign=50&descAlignY=70&descSize=20&descColor=333333" alt="LEE SANG JUN - default" />
-
-
 ## 👋 안녕하세요!  
 <br>
 
