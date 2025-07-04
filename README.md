@@ -26,7 +26,6 @@
 #### 🧩 Additional Skills
 <p>
   <img src="https://img.shields.io/badge/Zustand-000000?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white" />
 </p>
