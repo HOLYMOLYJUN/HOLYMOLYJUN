@@ -53,9 +53,9 @@
 
 ## ✍️ See More
 
-- 📒 Velog: [velog.io/@vlck1111](https://velog.io/@vlck1111)
-- 🗂️ Notion:
-- 
+📒 Velog: [velog.io/@vlck1111](https://velog.io/@vlck1111)
+🗂️ Notion: [Notion](https://sanjuuni32.notion.site/About-Me-1cfbee03037780f6bfdded9cb957badd?pvs=74)
+ 
 <br>
 
 ## 📫 Contact
