@@ -61,7 +61,7 @@
 
 ## ✍️ See More
 
-📒 Velog: [velog.io/@vlck1111](https://velog.io/@vlck1111)
+📒 Velog: [velog](https://velog.io/@vlck1111)
 🗂️ Notion: [Notion](https://sanjuuni32.notion.site/About-Me-1cfbee03037780f6bfdded9cb957badd?pvs=74)
  
 <br>
@@ -69,7 +69,7 @@
 ## 📫 Contact
 
 궁금한 점이 있으시면 아래 메일로 연락주세요.  
-📧 **sanjuuni32@gmail.com**
+📧 **sanjuuni3232@gmail.com**
 <br>
 
 <!--
