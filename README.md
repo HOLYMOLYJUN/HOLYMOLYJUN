@@ -42,14 +42,14 @@
   <img src="https://img.shields.io/badge/Fetch%20API-000000?style=flat&logo=javascript&logoColor=white" />
 </p>
 
-### 🎨 Design Tools
+#### 🎨 Design Tools
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white" />
 </p>
 
-### 🤝 Co-work Tools
+#### 🤝 Co-work Tools
 <p> 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" /> 
