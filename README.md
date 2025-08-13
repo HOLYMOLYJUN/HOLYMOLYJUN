@@ -57,6 +57,18 @@
 #### 🤝 Co-work Tools
 <p> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" /> </p>
 
+#### ✍️ Study
+
+<p>
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white" />
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=flat&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+</p>
+
+
 <br>
 
 ## ✍️ See More
