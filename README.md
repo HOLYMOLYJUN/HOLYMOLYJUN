@@ -38,7 +38,7 @@
 #### 📊 Data / Visualization
 <p>
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3dotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/ApexCharts-3C4CC0?style=flat&logo=apexcharts&logoColor=white" />
 </p>
 
 #### 🌐 Network / API
