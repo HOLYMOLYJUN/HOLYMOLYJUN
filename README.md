@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=160&section=header&text=LEE%20SANG%20JUN&fontColor=ffffff&fontAlign=50&fontAlignY=40&fontSize=40&desc=Frontend%20Developer%20%7C%20React%20%7C%20TypeScript&descAlign=50&descAlignY=70&descSize=20&descColor=dddddd" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=160&section=header&text=LEE%20SANG%20JUN&fontColor=FFD700&fontAlign=50&fontAlignY=40&fontSize=40&desc=Frontend%20Developer%20%7C%20React%20%7C%20TypeScript&descAlign=50&descAlignY=70&descSize=20&descColor=dddddd" />
 
 ## 👋 안녕하세요!  
 <br>
